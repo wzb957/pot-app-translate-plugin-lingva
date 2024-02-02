@@ -1,0 +1,2 @@
+cargo test --package plugin --lib -- tests --nocapture # 运行测试用例
+cargo build --release # 编译
