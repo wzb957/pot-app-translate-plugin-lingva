@@ -3,8 +3,8 @@
   "plugin_type": "translate",
   "icon": "lingva.svg",
   "display": "Lingva",
-  "homepage": "https://github.com/pot-app/pot-app-translate-plugin-template",
-  "needs": [{ "key": "requestPath", "display": "请求地址" }],
+  "homepage": "https://github.com/wzb957/pot-app-translate-plugin-lingva",
+  "needs": [{ "key": "requestPath", "display": "https://lingva.ml" }],
   "language": {
     "auto": "auto",
     "zh_cn": "zh",
